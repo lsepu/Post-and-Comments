@@ -14,6 +14,6 @@ public class Comment {
     private Long id;
 
     private String message;
-    private Long FK_post_id;
+    private Long fkPostId;
 
 }
